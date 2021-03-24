@@ -1,0 +1,3 @@
+com\simple\mapper\UserMapper.class
+com\simple\pojo\User.class
+com\simple\utils\MybatisUtils.class
